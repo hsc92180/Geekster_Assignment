@@ -1,5 +1,5 @@
 # Resume Task
-hosted link --> 
+hosted link --> https://hsc92180.github.io/Geekster_Assignment/Resume%20Task/resume.html
 
 # Tags Explaination
 
