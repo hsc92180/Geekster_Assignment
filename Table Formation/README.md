@@ -1,6 +1,6 @@
 # Table Formation
 
-## [Hosted Link :-] (https://hsc92180.github.io/Geekster_Assignment/Table%20Formation/file.html)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Table%20Formation/file.html)
 
 # Screenshots:
 
