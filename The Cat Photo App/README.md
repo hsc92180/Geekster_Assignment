@@ -1,12 +1,12 @@
 # The Cat Photo App
 hosted link -> https://hsc92180.github.io/Geekster_Assignment/The%20Cat%20Photo%20App/catphoto.html
 
-# Tags Explation 
+# Tags Explanation 
 
 ![image](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/5fff2dc6-af86-47e1-b679-8ca586b2bf2e)
 body -> it contains main content for the html file. <br>
 Heading h1 to h6 -> used it for heading in the container. From h1 to h6 font-size and font-weight decreases.<br>
-a -> used for intra or inter links.<br>
+a -> used for inter links.<br>
 Hyper Reference href -> attribute is used for location of anchor link.<br>
 img -> to show an image.<br>
 Source src -> used for location of image.<br>
