@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Form</title>
+</head>
+<body>
+	<fieldset>
+		<legend>Personal Details</legend>
+		<form>
+			<div class="firstName">
+				<label for="firstName">First Name</label>
+				<input type="text" name="firstName" />
+				<br /><br />
+			</div>
+			<div class="middleName">
+				<label for="middleName">Middle Name</label>
+				<input type="text" name="middleName" />
+				<br /><br />
+			</div>
+			<div class="lastName">
+				<label for="lastName">Last Name</label>
+				<input type="text" name="lastName" />
+				<br /><br />
+			</div>
+			<div class="course">
+				<label for="course">Course</label>
+				<select name="course" id="course">
+				    <option value="Course">Course</option>
+				    <option value="BCA">BCA</option>
+				    <option value="BBA">BBA</option>
+				    <option value="B.Tech">B.Tech</option>
+				    <option value="MBA">MBA</option>
+				    <option value="MCA">MCA</option>
+				    <option value="M.Tech">M.Tech</option>
+				</select>
+				<br /><br />
+			</div>
+			<div class="gender">
+				<label>Gender:</label>
+				<br />
+				<input type="radio" name="gender" value="male" />
+				<label for="gender">Male</label>
+				<br />
+				<input type="radio" name="gender" value="female" />
+				<label for="gender">Female</label>
+				<br />
+				<input type="radio" name="gender" value="others" />
+				<label for="gender">Other</label>
+				<br /><br />
+			</div>
+			<div class="dob">
+				<label for="dob">DOB</label>
+				<input type="datetime-local" name="dob" />
+			</div>
+			<div class="phone">
+				<label for="phone">Phone: </label>
+				<input type="text" value="+91" size="2" disabled />
+				<input type="tel" name="phone" maxlength="10" size="10" />
+				<br /><br />
+			</div>
+			<div class="address">
+				<label for="address"> Address </label>
+				<br />
+				<textarea name="address" cols="80" rows="5"></textarea>
+				<br /><br />
+			</div>
+			<div class="email password">
+				<label for="email">Email:</label>
+				<input type="email" name="email" />
+				<br /><br /><br />
+				<label for="password">Password:</label>
+				<input type="password" name="password" />
+				<br /><br /><br />
+				<label for="cPassword">Re-type Password:</label>
+				<input type="password" name="cPassword" />
+				<br /><br />
+			</div>
+			<div class="checkbox file color">
+				<input type="checkbox" name="terms" />
+				<label for="terms">Agree to terms and conditions</label>
+				<br /><br />
+				<label for="file">Choose File</label>
+				<input type="file" name="file" />
+				<br /><br />
+				<label for="color">Choose Color</label>
+				<input type="color" name="color" />
+				<br /><br />
+			</div>
+			<div class="buttons">
+				<input type="reset" value="Reset" />
+				<input type="submit" value="Submit" />
+			</div>
+		</form>
+	</fieldset>
+</body>
+</html>
