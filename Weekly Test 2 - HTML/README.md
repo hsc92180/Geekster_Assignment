@@ -6,7 +6,7 @@
 
 Folder Contents<br>
 
-![image](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/b7ac54e0-29da-434b-86b4-210eb77cbba1)
+![image](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/9906d463-f23a-410c-aefe-6959ed919dfe)
 
 Main index.html file<br>
 
