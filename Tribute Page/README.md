@@ -1,6 +1,6 @@
 # Tribute Page
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Tribute%20Page/)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Tribute%20Page/index.html)
 
 ## Screenshots:
 
