@@ -1,6 +1,6 @@
 # Tribute Page
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Personal%20Detail%20Form/)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Tribute%20Page/)
 
 ## Screenshots:
 
