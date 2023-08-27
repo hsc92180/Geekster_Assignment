@@ -10,11 +10,11 @@ Folder Contents<br>
 
 Main index.html file<br>
 
-![index](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/0a1ad112-b857-4e49-accf-391bf4556168)
+![index](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/772ba57f-c6ff-4015-a62d-34250f5796db)
 
 frame.html file:<br>
 
-![frame](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/8a49a692-24fb-4b63-877c-8f79baf05462)
+![frame](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/409b9b0a-1a2a-4734-a290-ad28d58b94c1)
 
 ## Tags and Attributes Used:
 
