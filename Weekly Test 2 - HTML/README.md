@@ -1,6 +1,6 @@
 # Weekly Test 2-HTML
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/iframes/index.html)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Weekly%20Test%202%20-%20HTML/index.html)
 
 ## Screenshots:
 
@@ -28,7 +28,7 @@ p -> used as showing paragraphs. <br>
 br -> for breaking the lines. <br>
 hr -> for horizontal line. <br>
 a -> used for linking two pages(internal) or two sections(intra).<br>
-h -> used for heading in pages.<br>
+Heading h1 to h6 -> used it for heading in the container. From h1 to h6 font-size and font-weight decreases.<br>
 iframe -> used it for using other web pages in my own page. <br>
 for styling, used border-style, border-width, width, height, name properties accoriding to their need.<br>
 target attribute -> has been used to state where the link should be opened and show the pages. It is targeted for iframe tag named as frame2. <br>
