@@ -1,6 +1,6 @@
 # Weekly Test 3
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/WT-3/)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/)
 
 ### HTML File:
 
