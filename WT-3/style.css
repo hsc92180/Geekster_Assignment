@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-y: scroll;
+}
+/* part1 */
+.head{
+    color: white;
+    text-align: center;
+    
+}
+.upper{
+    background: linear-gradient(to right, #000000,#e74c3c);
+  
+    padding: 10px;
+    position: sticky;
+}
+.upper p{
+    font-weight: bold;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 1);
+    position: sticky;
+    top: 0;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding-block: 15px;
+    z-index: 5;
+}
+
+.navbar .list{
+    margin-inline: 15px;
+    font-size: 0.83em;
+    font-weight: bold;
+    
+}
+
+
+ input{
+    width:30%;
+    font-size: larger;
+    border-radius: 0;
+    border-style: none;
+}
+
+.navbar .search{
+    padding: 5px;
+}
+/* part2 */
+.container-with-bg{
+    background-image: url(./28xp-shoes-09-superJumbo.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: absolute; */
+    padding: 6% 10%;
+    font-size: larger;
+    color: white;
+}
+.container-with-bg .box{
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+    
+}
+.container-with-bg .box h1{
+    font-size: 1.5em;
+}
+
+.trending-container{
+    padding: 1% 5%;
+    background-color: 
+    #e5e5e5;
+}
+.trending{
+    margin-block: 10px;
+    background-color: #a0a0a0;
+    
+  height: 206px;
+  padding: 1%;
+}
+.trending h1{
+    color: #303030;
+}
+.trending div{
+    width: 120px;
+    height: 150px;
+    display: inline-block;
+    background-color: #606060 ;
+    color: white;
+    text-align: left;
+    padding: 0.1%;
+}
+
+.trending img{
+    width: 100%;
+    height: 80%;
+    border-color: #000000;
+}
+
+.container-with-color{
+    background: linear-gradient(to left, #000000, #434343);
+    color: white;
+    width: 100%;
+    height: 100vh;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+   display: flex;
+    overflow: hidden;
+}
+
+.big-box{
+    background: linear-gradient(to right, #000000, #e74c3c);
+    width: 85%;
+    height: 75%;
+    margin: auto;
+   position: relative;
+    padding: 2%;
+    box-shadow: 0px 0px 10px gray;
+}
+.big-box h1{
+    font-size: xx-large;
+    margin-bottom: 30px;
+    width: 40%;
+}
+.big-box p{
+    font-size: large;
+    line-height: 20px;
+    margin-bottom: 50px;
+    width: 40%;
+}
+
+.big-box img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+    right:  4%;
+    top: 4%;
+    box-shadow: 8px 8px 8px white;
+}
+.big-box img:hover{
+    width: 400px;
+    height: 400px;
+    top: 10%;
+    right: 8%;
+}
