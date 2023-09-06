@@ -6,7 +6,7 @@
 
 ![index](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/1d5fe7dc-5d7d-4896-9287-1a5119c0c71d)
 
-This is html file. In this, I have used div, section, header, nav, p, span, input  tags with appropriate css styling. I linked css file ny using link tag rel is attribute to provide file type and href is attribute to provide address of the file.
+This is html file. In this, I linked css file by using link tag rel is attribute to provide file type and href is attribute to provide address of the file.
 
 ### styling part
 
