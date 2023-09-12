@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    color: #b3cade;
+}
+
+body {
+    background-color: #72b5a7;
+}
+
+main {
+
+    display: flex;
+    height: 100vh;
+    width: 75%;
+    margin: auto;
+}
+
+.left {
+    background: linear-gradient(to bottom, #f3fcfb , 
+    #e0f8f4,#cbe3de, #a7c2bc );
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    width: 320px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 30px;
+    font-weight: bolder;
+    margin-right: -10px;
+}
+
+.left .profile-section {
+    text-align: center;
+}
+
+.left .image img {
+    border-radius: 50%;
+}
+
+main img {
+    width: 70px;
+    height: 70px;
+}
+
+.para-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.profile-para h3 {
+    font-size: 16px;
+}
+
+.profile-para p {
+    font-size: 14px;
+}
+
+.left-paras {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-grow: 2;
+    color: #b1c5d1 ;
+}
+
+.left-paras div {
+    display: inline-flex;
+    align-items: center;
+}
+
+.left-paras .para-logo {
+    margin-inline: 10px 25px;
+}
+
+.left-footer {
+    background-color: #81cbc2;
+    border-radius: 12px;
+    display: flex;
+    padding: 12px;
+}
+
+.inside-footer-left {
+    color: #c2dede;
+    text-align: center;
+    margin: 8px;
+}
+
+.inside-footer-right {
+    margin-left: 40px;
+}
+
+.radio-image {
+    transform: rotate(-40deg);
+    width: 100px;
+    height: 90px;
+}
+
+.right {
+    background: linear-gradient(to right,
+            #d4f4f0, #c8f3eb, #c8f3eb);
+    display: flex;
+    flex-direction: column;
+    border-radius:0 12px 12px 0;
+    flex-grow: 2;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.heading-bar {
+    width: 300px;
+    height: 25px;
+    background: linear-gradient(to right,
+            #eafaf8, #e6faf9, #e2f9f6, #ddf7f3);
+    border-radius: 12px;
+}
+
+.right-head {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    align-items: center;
+}
+
+.right h1,
+.left h3 {
+    font-weight: bolder;
+    color: #7c8ca2;
+}
+
+.inside-head-right {
+    background: radial-gradient(circle, rgba(2, 0, 36, 0.6868872549019608) 0%, rgba(255, 255, 255, 1) 0%, rgba(203, 243, 236, 1) 81%);
+    width: 195px;
+    height: 170px;
+    margin-right: -47px;
+    border-radius: 12px;
+}
+
+.right-cards {
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    background-color:
+        #e7f9f7;
+    padding: 18px;
+    border-radius: 12px;
+    margin: 10px;
+
+}
+
+.card-image {
+    border-radius: 20px;
+}
+
+.card-bar {
+    background-color: #91e7d4;
+    width: 225px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.card-center p {
+    margin-top: 2px;
+}
