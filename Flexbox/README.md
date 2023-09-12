@@ -4,7 +4,7 @@
 
 ### HTML File:
 
-![index](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/0bcebd70-8ab3-4659-a56e-aa38f2778d35)
+![Alt text](index.png)
 
 This is index.html file. We use Link tag in head to connect css file with html file.
 rel -> attribute tell about type of sheet we are calling and href -> attribute gives address of file.
@@ -12,7 +12,7 @@ In body, I have used div, section, header, footer, nav, p, form, input  tags wit
 
 ### CSS File:
 
-![style](https://github.com/hsc92180/Geekster_Assignment/assets/68774484/682e87a1-71d1-4c56-9102-be6b902ab477)
+![Alt text](style.png)
 
 universal, class, and tag selector used in css. <br>
 In css styling, common properties have been used as: <br>
