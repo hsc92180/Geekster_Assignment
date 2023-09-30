@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Tailwind-Project</title>
+	<link rel="stylesheet" href="style.css" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link
+		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;700&display=swap"
+		rel="stylesheet"
+	/>
+	<script
+		src="https://kit.fontawesome.com/d521bbec8a.js"
+		crossorigin="anonymous"
+	></script>
+</head>
+<body class="grid w-screen h-screen place-content-center font-IBMPlex">
+	<div
+		class="bg-gradient-to-t from-black to-black to-65% from-white from-65% h-card w-card shadow-xl"
+	>
+		<div class="flex px-12 py-10">
+			<img class="w-2/6 shadow-green" src="shoe.png" alt="shoe" />
+			<div class="flex flex-col justify-between ml-20 grow">
+				<div class>
+					<h1 class="text-5xl font-medium text-white">Retro Shoe</h1>
+					<h2 class="mt-4 text-3xl font-medium text-white">
+						$89.00
+						<span class="ml-2 font-light text-shoe-green">IN STOCK</span>
+					</h2>
+				</div>
+				<div class="flex mt-20 gap-x-8">
+					<a
+						class="grid p-2 text-3xl font-thin text-white bg-black shadow-green-small w-14 h-14 place-content-center"
+						href="#"
+						>XS</a
+					>
+					<a
+						class="grid p-2 text-3xl font-thin duration-300 w-14 h-14 place-content-center hover:text-white hover:bg-black hover:shadow-green-small"
+						href="#"
+						>S</a
+					>
+					<a
+						class="grid p-2 text-3xl font-thin duration-300 w-14 h-14 place-content-center hover:text-white hover:bg-black hover:shadow-green-small"
+						href="#"
+						>M</a
+					>
+					<a
+						class="grid p-2 text-3xl font-thin duration-300 w-14 h-14 place-content-center hover:text-white hover:bg-black hover:shadow-green-small"
+						href="#"
+						>L</a
+					>
+					<a
+						class="grid p-2 text-3xl font-thin duration-300 w-14 h-14 place-content-center hover:text-white hover:bg-black hover:shadow-green-small"
+						href="#"
+						>XL</a
+					>
+				</div>
+				<div class="flex justify-between mt-4 gap-x-6">
+					<button
+						class="px-8 py-4 text-2xl font-bold duration-300 border-4 border-black bg-new-green hover:bg-black hover:text-white"
+					>
+						BUY NOW
+					</button>
+					<button
+						class="px-8 py-4 text-2xl font-bold duration-300 border-4 border-black hover:bg-slate-100"
+					>
+						ADD TO BAG
+					</button>
+					<div class="flex items-center justify-center text-3xl grow">
+						<i
+							class="duration-300 cursor-pointer fa-solid fa-heart hover:text-red-600"
+						></i>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p class="inline-block w-10/12 pr-10 text-right">
+			Free Shipping on all continental US orders.
+		</p>
+	</div>
+</body>
+</html>
