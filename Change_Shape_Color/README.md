@@ -1,6 +1,6 @@
 # Shape and Color Changer 
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/WT_Cart/)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Change_Shape_Color/)
 
 This project is a simple web application that allows users to dynamically change the shape and color of a shape displayed on a web page. Below, we'll explain the code, its functionality, and how to run it.
 Overview
