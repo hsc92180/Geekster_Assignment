@@ -3,7 +3,7 @@
 The web page provides a textarea where users can input text. A real-time character counter is displayed, 
 showing the total characters in the textarea and the remaining characters out of a maximum limit.
 
-## [Hosted Link!](https://hsc92180.github.io/Geekster_Projects/Character_Count/)
+## [Hosted Link!](https://hsc92180.github.io/Geekster_Assignment/Character_Count/)
 
 ## Usage
 Open the index.html file in a web browser.
